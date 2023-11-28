@@ -1,7 +1,5 @@
 # Distributed Computing
 
-Projects done as part of Distributing Computing at the University of Waterloo.
-
 ## 1. Sockets and Graphs (Java)
 
 Client-server program that processes graph data.
